@@ -1,0 +1,6 @@
+telemetry_daemon
+sensor_node
+*.o
+*.swp
+*~
+/tmp/sensor_telemetry_fifo
